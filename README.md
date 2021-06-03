@@ -6,6 +6,8 @@
 - https://pgp.mit.edu/
 
 
+也可以直接GPG导入。比如：
+
 ```bash
 gpg --keyserver pgp.mit.edu --recv-keys C05E4DC4
 ```
